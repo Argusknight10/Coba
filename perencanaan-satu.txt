@@ -1,2 +1,2 @@
-- Menambahkan Alamat
-- Menambahkan Nama Sekolah
+- MENAMBAHKAN ALAMAT
+- MENAMBAHKAN NAMA SEKOLAH
